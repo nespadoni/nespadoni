@@ -4,8 +4,8 @@
 - 🌱 Estudando Java
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nespadoni&theme=holi&show_icons=true&hide=contribs,prs">
-<img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=holi&layout=compact">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=nespadoni&theme=holi&show_icons=true&hide=contribs,prs">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=holi&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>
