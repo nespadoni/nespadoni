@@ -5,7 +5,7 @@ Olá, me chamo Neto Spadoni, trabalhei como Filmmaker e recentemente fiz uma tra
 ## 📊 Estatísticas
 <div>
 <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=nespadoni&theme=holi&show_icons=true&hide=contribs,prs">
-<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&hide_progress=true">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=holi&layout=compact">
 </div>
 
 ## 🤖 Linguagens e Tecnologias
