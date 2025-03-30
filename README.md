@@ -1,6 +1,6 @@
 ##  Neto Spadoni!
 
-Olá, me chamo Neto Spadoni, trabalhei como Filmmaker e recentemente fiz uma transição em minha carreira para o Desenvolvimento Back-End. Atualmente, estou cursando Publicidade & Propaganda e começando na faculdade de Engenharia de Software.
+Olá, me chamo Neto Spadoni, trabalhava como Filmmaker e a 1 ano atrás fiz uma transição em minha carreira para o Desenvolvimento Back-End. Atualmente, estou finalizando Publicidade & Propaganda e cursando Engenharia de Software.
 
 ## 📊 Estatísticas
 <div>
