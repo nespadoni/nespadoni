@@ -9,11 +9,11 @@ Olá, me chamo Neto Spadoni, trabalhava como Filmmaker e a 1 ano atrás fiz uma 
 </div>
 
 ## 🤖 Linguagens e Tecnologias
-<div style="display: inline_block"><br>
-<img align="center" alt="Neto-JAVA" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-<img align="center" alt="Neto-SPRING" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-<img align="center" alt="Neto-MYSQL" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Neto-AWS" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="center" alt="Neto-ORACLE" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img align="center" alt="Neto-POSTGRESQL" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-</div>
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/go" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/java" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/angular" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/vue" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
+<div>
