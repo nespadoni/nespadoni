@@ -4,8 +4,8 @@ Olá, me chamo Neto Spadoni, trabalhava como Filmmaker e a 1 ano atrás fiz uma 
 
 ## 📊 Estatísticas
 <div>
-<img height="150cm" src=https://github-readme-streak-stats.herokuapp.com/?user=nespadoni&theme=tokyonight&hide_border=true>
-<img height="150cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=tokyonight&show_icons=true&hide_border=true&layout=compact>
+<img height="200cm" src=https://github-readme-streak-stats.herokuapp.com/?user=nespadoni&theme=tokyonight&hide_border=true>
+<img height="200cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=tokyonight&show_icons=true&hide_border=true&layout=compact>
 </div>
 
 ## 🤖 Linguagens e Tecnologias
