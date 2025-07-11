@@ -6,7 +6,7 @@ Olá, me chamo Neto Spadoni, trabalhava como Filmmaker e a 1 ano atrás fiz uma 
 <div>
 <img height="150cm" src=https://github-readme-stats.vercel.app/api?username=nespadoni&theme=tokyonight&show_icons=true&hide_border=true&count_private=true>
 <img height="150cm" src=https://github-readme-streak-stats.herokuapp.com/?user=nespadoni&theme=tokyonight&hide_border=true>
-<img height="500cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=tokyonight&show_icons=true&hide_border=true&layout=compact>
+
   
 </div>
 
@@ -18,4 +18,5 @@ Olá, me chamo Neto Spadoni, trabalhava como Filmmaker e a 1 ano atrás fiz uma 
 <img src="https://iconic-api.onrender.com/dark/angular" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/vue" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=tokyonight&show_icons=true&hide_border=true&layout=compact>
 <div>
