@@ -4,7 +4,7 @@ Olá, me chamo Neto Spadoni, trabalhava como Filmmaker e a 1 ano atrás fiz uma 
 
 ## 📊 Estatísticas
 <div>
-![nespadoni's Stats](https://github-readme-stats.vercel.app/api?username=nespadoni&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![nespadoni's Stats]<img height="150cm" src=https://github-readme-stats.vercel.app/api?username=nespadoni&theme=tokyonight&show_icons=true&hide_border=true&count_private=true>
 ![nespadoni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nespadoni&theme=tokyonight&hide_border=true)
 ![nespadoni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
