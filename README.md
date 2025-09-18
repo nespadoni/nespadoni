@@ -109,12 +109,6 @@ func main() {
 
 </div>
 
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com?user=nespadoni&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
 ### 💻 Languages & Contributions
 
 <div align="center">
