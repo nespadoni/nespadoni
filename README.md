@@ -104,11 +104,7 @@ func main() {
   
   <!-- Usando diferentes provedores mais estáveis -->
   <picture>
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=nespadoni&show_icons=true&count_private=true&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nespadoni&show_icons=true&count_private=true&theme=vue&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nespadoni&show_icons=true&count_private=true&theme=dark&hide_border=true" />
   </picture>
 
 </div>
