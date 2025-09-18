@@ -111,8 +111,7 @@ func main() {
 
 <div align="center">
   
-  <!-- Streak stats alternativo -->
-  <img src="https://streak-stats.demolab.com/?user=nespadoni&theme=highcontrast&hide_border=true&fire=00b4d8&ring=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=nespadoni&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
