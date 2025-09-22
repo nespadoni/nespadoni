@@ -197,24 +197,6 @@ func main() {
 
 ---
 
-## 📈 Professional Journey
-
-```mermaid
-graph LR
-    A[🎬 Filmmaker] --> B[🔄 Career Transition]
-    B --> C[💻 Backend Developer]
-    C --> D[🏛️ TCE-MT via Argo]
-    D --> E[🎯 International Goals]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffd93d
-```
-
----
-
 ## 🎯 Current Goals
 
 <div align="center">
