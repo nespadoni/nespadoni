@@ -29,7 +29,7 @@ func main() {
         Role:       "Back-End Engineer",
         Company:    "TCE-MT (via Argo)",
         Background: "Filmmaker turned Software Engineer",
-        Languages:  []string{"Golang", "Java", "TypeScript"},
+        Languages:  []string{"Java", "Golang", "TypeScript"},
         Focus:      "High-performance distributed systems",
         Goals:      []string{"International companies", "Fintech sector", "Cloud architecture"},
     }
@@ -139,7 +139,7 @@ func main() {
         </a>
         <br><br>
         <p><strong>Sports Management Backend</strong></p>
-        <p>Complete backend solution built with Go, featuring REST API, authentication, and database integration for sports management systems.</p>
+        <p>Complete backend solution built with Java and Go, featuring REST API, authentication, and database integration for sports management systems.</p>
       </div>
     </td>
     <td width="50%">
