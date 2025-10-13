@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Neto Spadoni!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End+Engineer;Golang+Developer;Full+Stack+Developer;Always+Learning&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End+Engineer;Java+Developer;Golang+Developer;Full+Stack+Developer;Always+Learning&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
 ---
